@@ -1,1 +1,4 @@
 /data/food-11.zip
+/data/training/*
+/data/testing/*
+/data/validation/*
